@@ -6,6 +6,6 @@ Note: This repository is useful for people interested in solidity programming an
 
 نکته: این مخزن برای افراد علاقه مند به برنامه نویسی سالیدیتی ، به ویژه دانشجویان دوره برنامه نویسی سالدیتی (مکتبخونه) ، کاربردی است.
 
-# Here is Course Link
+# Here is Course's Link
 
 https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D9%84%DB%8C%D8%AF%DB%8C%D8%AA%DB%8C-solidity-mk1716/
