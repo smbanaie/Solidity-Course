@@ -4,7 +4,7 @@ In this repository, I publish some Document and sample code about Solidity Progr
 
 Note: This repository is useful for people interested in solidity programming and especially students of (Maktabkhone) solidity programming course.
 
-نکته: این مخزن برای افراد علاقه مند به برنامه نویسی سالیدیتی و به ویژه دانشجویان دوره برنامه نویسی سالدیتی (مکتبخونه) ، کاربردی است.
+نکته: این مخزن برای افراد علاقه مند به برنامه نویسی سالیدیتی ، به ویژه دانشجویان دوره برنامه نویسی سالدیتی (مکتبخونه) ، کاربردی است.
 
 # Here is Course Link
 
