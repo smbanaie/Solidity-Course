@@ -26,11 +26,11 @@ https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D9%
 نکته : سطح کد های قرارگرفته از سطح دوره برنامه نویسی سالیدیتی مکتب خونه به مراتب بالاتر هست بنابراین توصیه می شود بعد از اتمام دوره برنامه نویسی سالیدیتی ، تمامی کد های موجود در این مخزن را مجددا خودتان پیاده سازی کنید و مفاهیم آن را بررسی کنید و یادبگیرید، و این کار شما را به یک توسعه دهنده سطح 1 زبان سالیدیتی می کند.
 <hr>
 
-راه ارتباطی با من : 
-email:     dminddev01@gmail.com <br>
-instagram: https://www.instagram.com/hooman.dehghani/ <br>
-twitter:   https://twitter.com/DmindDev01 <br>
-linkedin:  https://www.linkedin.com/in/hooman-dehghani-27089117b <br>
+راه ارتباطی با من :
+<br><br>
+email:     dminddev01@gmail.com <br><br>
+instagram: https://www.instagram.com/hooman.dehghani <br><br>
+twitter:   https://twitter.com/DmindDev01 <br><br>
+linkedin:  https://www.linkedin.com/in/hooman-dehghani-27089117b <br><br>
 
-
-
+<hr>
