@@ -27,10 +27,10 @@ https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D9%
 <hr>
 
 راه ارتباطی با من : 
-email:     dminddev01@gmail.com
-instagram: https://www.instagram.com/hooman.dehghani/
-twitter:   https://twitter.com/DmindDev01
-linkedin:  https://www.linkedin.com/in/hooman-dehghani-27089117b
+email:     dminddev01@gmail.com <br>
+instagram: https://www.instagram.com/hooman.dehghani/ <br>
+twitter:   https://twitter.com/DmindDev01 <br>
+linkedin:  https://www.linkedin.com/in/hooman-dehghani-27089117b <br>
 
 
 
